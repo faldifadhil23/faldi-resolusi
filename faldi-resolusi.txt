@@ -4,3 +4,4 @@ FALDI RESOLUSI
 - Belahar CSS
 - Belajar GIT
 - Belajar Pyhton
+- Belajar Java OPP
