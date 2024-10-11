@@ -1,0 +1,3 @@
+Rencana Belajar Faldi
+- Belajar R Studio
+- Belajar SQL
